@@ -6,16 +6,16 @@ ChatApp JEE is a Java EE-based chat application offering a secure communication 
 
 ### 1. Login/Register Page
 
-![Login/Register](images/login.png)
-![Login/Register](images/register.png)
+![Login/Register]((Images/login.png)
+![Login/Register](Images/register.png)
 
 - Allows users to log in or register.
 - Passwords are securely stored in the database.
 
 ### 2. Home Interface
 
-![Home](images/home.png)
-![Group Conversations](images/converstions.png)
+![Home](Images/home.png)
+![Group Conversations](Images/converstions.png)
 
 - Displays the list of users and groups.
 - Users can create groups for communication.
@@ -24,13 +24,13 @@ ChatApp JEE is a Java EE-based chat application offering a secure communication 
 
 ### 3. Create Groups
 
-![Create Groups](images/createGrp.png)
+![Create Groups](Images/createGrp.png)
 
 - Allows users to create a new group with a user-friendly interface.
 
 ### 4. User List (Admin)
 
-![User List (Admin)](images/list-users-admins.png)
+![User List (Admin)](Images/list-users-admins.png)
 
 - Accessible only by the administrator.
 - Displays the complete list of users with options to ban or grant administrator status.
